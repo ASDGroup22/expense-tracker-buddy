@@ -1,0 +1,5 @@
+# output file
+out
+.idea
+*.iml
+.DS_Store
